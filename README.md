@@ -20,18 +20,12 @@ This project is initialized with [Create React App](https://github.com/facebook/
 
 To install check ([Node.js installation](https://nodejs.org/en/) or [Node Version Manager installation](https://github.com/nvm-sh/nvm)).
 
-### Clone or copy this repo
-
-```bash
-curl -L https://github.com/michielbouw/react-typescript-eslint-prettier-boilerplate/archive/master.zip | tar zx
-mv react-typescript-eslint-prettier-boilerplate APP_NAME
-cd APP_NAME
-```
+### Clone this repo
 
 or
 
 ```bash
-git clone git@github.com:michielbouw/react-typescript-eslint-prettier-boilerplate.git APP_NAME
+git clone https://github.com/oliverilm/react-typescript-template.git APP_NAME
 cd APP_NAME
 ```
 
