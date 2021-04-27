@@ -13,6 +13,8 @@ This project is initialized with [Create React App](https://github.com/facebook/
 - SASS/SCSS
 - ESLint (instead of deprecated TSLint)
 - Prettier
+- axios
+- styled-components
 
 ## Get Started
 
